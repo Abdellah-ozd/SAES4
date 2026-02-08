@@ -42,6 +42,8 @@ app-example
 /ios
 /android
 
-# JetBrains (WebStorm / PhpStorm)
+# IDE & Éditeurs (Pour ne pas partager nos réglages perso)
 .idea/
+.vscode/
+*.swp
 *.iml
