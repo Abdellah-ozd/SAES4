@@ -42,7 +42,7 @@ app-example
 /ios
 /android
 
-# IDE & Éditeurs (Pour ne pas partager nos réglages perso)
+# IDE
 .idea/
 .vscode/
 *.swp
